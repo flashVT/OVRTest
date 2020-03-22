@@ -1,0 +1,24 @@
+{
+  "name": "com.ovrtechnology.test",
+  "version": "0.2.0",
+  "displayName": "OVR Test",
+  "description": "This is an example package",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "author": {
+    "name": "Joe Manley",
+    "email": "joe@ovrtechnology.com",
+    "url": "http://www.ovrtechnology.com"
+  },
+  "samples": [
+   {
+
+     "displayName": "Sample1",
+
+     "description": "Description for sample 1",
+
+     "path": "Samples/Sample1"
+
+   }
+ ]
+}
